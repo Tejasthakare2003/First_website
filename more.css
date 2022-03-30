@@ -1,0 +1,34 @@
+body
+{
+    background-image: url("/background\ image.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 1500px;
+    height: 1000px;
+}
+.top
+{
+    background-image: url("/Shiv.png");
+    background-attachment: scroll;
+    background-repeat: no-repeat;  
+    background-size: 800px;  
+    height: 90000px;
+    background-position-x:160px; 
+    padding-top: 100px;
+}  
+.a
+{
+    text-align: center;
+    position: absolute;
+    top: 450px;
+    padding-left: 30px;
+    padding-right: 30px;
+}    
+.b
+{
+    text-align: center;
+    position: absolute;
+    top: 700px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
